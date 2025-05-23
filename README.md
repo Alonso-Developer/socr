@@ -5,8 +5,9 @@
 python -m venv .venv
 ```
 ```
-source .venv/bin/activate (LINUX)
-cd .venv/Scripts & activate (WIN)
+source .venv/bin/activate
+OR
+cd .venv/Scripts & activate 
 ```
 ```
 pip install -r requirements.txt
